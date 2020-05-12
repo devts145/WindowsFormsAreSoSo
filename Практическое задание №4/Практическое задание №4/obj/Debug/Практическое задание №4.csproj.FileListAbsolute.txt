@@ -1,0 +1,10 @@
+C:\Users\Tsekv\Desktop\9 КЛАСС И С#\Windows Forms\Практическое задание №4\Практическое задание №4\bin\Debug\Практическое задание №4.exe.config
+C:\Users\Tsekv\Desktop\9 КЛАСС И С#\Windows Forms\Практическое задание №4\Практическое задание №4\bin\Debug\Практическое задание №4.exe
+C:\Users\Tsekv\Desktop\9 КЛАСС И С#\Windows Forms\Практическое задание №4\Практическое задание №4\bin\Debug\Практическое задание №4.pdb
+C:\Users\Tsekv\Desktop\9 КЛАСС И С#\Windows Forms\Практическое задание №4\Практическое задание №4\obj\Debug\Практическое задание №4.csprojAssemblyReference.cache
+C:\Users\Tsekv\Desktop\9 КЛАСС И С#\Windows Forms\Практическое задание №4\Практическое задание №4\obj\Debug\Практическое_задание__4.Form1.resources
+C:\Users\Tsekv\Desktop\9 КЛАСС И С#\Windows Forms\Практическое задание №4\Практическое задание №4\obj\Debug\Практическое_задание__4.Properties.Resources.resources
+C:\Users\Tsekv\Desktop\9 КЛАСС И С#\Windows Forms\Практическое задание №4\Практическое задание №4\obj\Debug\Практическое задание №4.csproj.GenerateResource.cache
+C:\Users\Tsekv\Desktop\9 КЛАСС И С#\Windows Forms\Практическое задание №4\Практическое задание №4\obj\Debug\Практическое задание №4.csproj.CoreCompileInputs.cache
+C:\Users\Tsekv\Desktop\9 КЛАСС И С#\Windows Forms\Практическое задание №4\Практическое задание №4\obj\Debug\Практическое задание №4.exe
+C:\Users\Tsekv\Desktop\9 КЛАСС И С#\Windows Forms\Практическое задание №4\Практическое задание №4\obj\Debug\Практическое задание №4.pdb
